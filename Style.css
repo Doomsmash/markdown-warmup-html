@@ -1,0 +1,17 @@
+h1 
+{color: blueviolet;}
+
+h2
+{color:cyan}
+
+h3 
+{color:firebrick}
+
+p{color: darkmagenta;
+font-family:Impact, Arial
+}
+body {
+    background-image: url("fond CV copie.jpg");
+}
+ol {color:darkorange}
+ul { color: deeppink}

@@ -1,17 +1,41 @@
 h1 
-{color: blueviolet;}
+{color: rgb(175, 111, 235);
+text-align: center;}
 
 h2
-{color:cyan}
+{color:cyan;
+text-align: center;}
 
 h3 
-{color:firebrick}
+{color:black;
+text-align: left;}
 
-p{color: darkmagenta;
-font-family:Impact, Arial
+.discribe {color:white;
+font-family:Impact, Arial;
+text-align: center;
 }
+
+.sub-text {
+    text-align: left;
+    color: white;
+    font-family: Impact, Arial;
+}
+
 body {
     background-image: url("fond CV copie.jpg");
 }
-ol {color:darkorange}
-ul { color: deeppink}
+ol {color:darkorange;
+text-align: left;}
+ul { color: deeppink;
+text-align: left;}
+li {text-align: left;}
+#cat 
+{margin: auto;
+margin-left: 55vh;}
+
+nav a:hover{ 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-decoration: underline;
+    color: red;}
